@@ -1,0 +1,30 @@
+Fri Mar  8 11:55:52 CST 2019
+parse app.config success!
+
+Fri Mar  8 16:15:16 CST 2019
+parse app.config success!
+
+Fri Mar  8 16:28:36 CST 2019
+load app config failed
+while parsing a block collection
+  in "<string>", line 2, column 5:
+        - url : /
+        ^
+expected <block end>, but found '?'
+  in "<string>", line 3, column 5:
+        script : /index.php
+        ^
+parse app.config failed!
+
+Mon Apr  8 10:38:07 CST 2019
+load app config failed
+while parsing a block collection
+  in "<string>", line 2, column 5:
+        - url : /
+        ^
+expected <block end>, but found '?'
+  in "<string>", line 3, column 5:
+        script : /index.php
+        ^
+parse app.config failed!
+
